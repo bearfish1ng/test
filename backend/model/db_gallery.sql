@@ -7,4 +7,4 @@ CREATE TABLE gallery_ (
     );
 
 INSERT INTO gallery_ (id, userid, title, content) VALUES
-(1,'bearfish','디저트 종류','디저트에는 많은 종류가 있다')
+(1,'bearfish','디저트 종류','디저트에는 많은 종류가 있다');
