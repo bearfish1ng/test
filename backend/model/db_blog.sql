@@ -8,4 +8,4 @@ CREATE TABLE blog_ (
     );
 
 INSERT INTO gallery_ (id, userid, title, img, content) VALUES
-(1,'bearfish','디저트 종류','이미지','디저트를 먹으면')
+(1,'bearfish','디저트 종류','이미지','디저트를 먹으면');
